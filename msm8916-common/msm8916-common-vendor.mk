@@ -44,13 +44,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8916-common/proprietary/etc/firmware/cpp_firmware_v1_4_0.fw:system/etc/firmware/cpp_firmware_v1_4_0.fw \
     vendor/motorola/msm8916-common/proprietary/etc/firmware/sensorhubfw.bin:system/etc/firmware/sensorhubfw.bin \
     vendor/motorola/msm8916-common/proprietary/etc/firmware/sensorhubver.txt:system/etc/firmware/sensorhubver.txt \
-    vendor/motorola/msm8916-common/proprietary/etc/firmware/venus.b00:system/etc/firmware/venus.b00 \
-    vendor/motorola/msm8916-common/proprietary/etc/firmware/venus.b01:system/etc/firmware/venus.b01 \
-    vendor/motorola/msm8916-common/proprietary/etc/firmware/venus.b02:system/etc/firmware/venus.b02 \
-    vendor/motorola/msm8916-common/proprietary/etc/firmware/venus.b03:system/etc/firmware/venus.b03 \
-    vendor/motorola/msm8916-common/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
-    vendor/motorola/msm8916-common/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
-    vendor/motorola/msm8916-common/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
     vendor/motorola/msm8916-common/proprietary/etc/flp.conf:system/etc/flp.conf \
     vendor/motorola/msm8916-common/proprietary/etc/gps.conf:system/etc/gps.conf \
     vendor/motorola/msm8916-common/proprietary/etc/permissions/imscm.xml:system/etc/permissions/imscm.xml \
@@ -70,6 +63,13 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8916-common/proprietary/lib/libqmimotext.so:system/lib/libqmimotext.so \
     vendor/motorola/msm8916-common/proprietary/vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti:system/vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti \
     vendor/motorola/msm8916-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
+    vendor/motorola/msm8916-common/proprietary/vendor/etc/firmware/venus.b00:system/vendor/etc/firmware/venus.b00 \
+    vendor/motorola/msm8916-common/proprietary/vendor/etc/firmware/venus.b01:system/vendor/etc/firmware/venus.b01 \
+    vendor/motorola/msm8916-common/proprietary/vendor/etc/firmware/venus.b02:system/vendor/etc/firmware/venus.b02 \
+    vendor/motorola/msm8916-common/proprietary/vendor/etc/firmware/venus.b03:system/vendor/etc/firmware/venus.b03 \
+    vendor/motorola/msm8916-common/proprietary/vendor/etc/firmware/venus.b04:system/vendor/etc/firmware/venus.b04 \
+    vendor/motorola/msm8916-common/proprietary/vendor/etc/firmware/venus.mbn:system/vendor/etc/firmware/venus.mbn \
+    vendor/motorola/msm8916-common/proprietary/vendor/etc/firmware/venus.mdt:system/vendor/etc/firmware/venus.mdt \
     vendor/motorola/msm8916-common/proprietary/vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc:system/vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc \
     vendor/motorola/msm8916-common/proprietary/vendor/framework/qti-vzw-ims-internal.jar:system/vendor/framework/qti-vzw-ims-internal.jar \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/com.qualcomm.qti.ant@1.0_vendor.so:system/vendor/lib/com.qualcomm.qti.ant@1.0_vendor.so \
