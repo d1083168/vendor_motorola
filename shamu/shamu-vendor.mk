@@ -421,7 +421,6 @@ PRODUCT_PACKAGES += \
     DMConfigUpdate \
     HiddenMenu \
     TimeService \
-    Tycho \
     VZWAPNLib \
     atfwd \
     ims \
@@ -434,7 +433,6 @@ PRODUCT_PACKAGES += \
     DCMO \
     DMService \
     DiagMon \
-    GCS \
     LifetimeData \
     MotoSignatureApp \
     SprintDM \
